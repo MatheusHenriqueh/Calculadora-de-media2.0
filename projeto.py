@@ -1,5 +1,5 @@
 #Calculamento de média 2.0
-#Autor: Matheus Ruivo
+#Autor: Matheus Henrique
 #09/10/2025
 print("Seja bem-vindo(a)")
 print("Chamada dos alunos")
@@ -12,4 +12,5 @@ nota5 = float(input("Pontos tirados (-):"))
 soma = nota + nota2 + nota3 + nota4 
 menos = soma - nota5 
 conta = menos / 4
+
 print(f"O {add} ficou com {conta} de média. ")
