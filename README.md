@@ -1,6 +1,6 @@
 # 🎓 Calculadora de Média 2.0 (Evolução)
 
-Bem-vindo(a) à **Calculadora de Média 2.0**, uma versão aprimorada e inteligente da calculadora escolar desenvolvida por **Matheus Ruivo**!  
+Bem-vindo(a) à **Calculadora de Média 2.0**, uma versão aprimorada e inteligente da calculadora escolar desenvolvida por **Matheus Henrique**!  
 Esta versão vai além do simples cálculo de notas — ela interpreta resultados, mostra mensagens personalizadas e permite trabalhar com várias matérias.
 
 ---
